@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(90deg, rgb(0, 0, 112), rgb(25, 25, 255), rgb(25, 25, 255), rgb(0, 0, 112));
+    font-family: sans-serif;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
