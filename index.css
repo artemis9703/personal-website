@@ -14,3 +14,18 @@ h2 {
 p {
     font-size: 18px;
 }
+a {
+    color: white;
+}
+a:visited {
+    color:white;
+}
+a:hover.github {
+    color: black;
+}
+a:hover.bookshelf {
+    color: rgb(255, 25, 25);
+}
+a:hover.watchlist {
+    color: rgb(25, 255, 25);
+}
