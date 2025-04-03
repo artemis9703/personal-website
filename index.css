@@ -29,3 +29,7 @@ a:hover.bookshelf {
 a:hover.watchlist {
     color: rgb(25, 255, 25);
 }
+hr {
+    height: 2px;
+    background-color: white;
+}
