@@ -11,3 +11,16 @@ h2 {
     font-style: normal;
     font-size: 75px;
 }
+hr {
+    height: 3.5px;
+    background-color: white;
+}
+a {
+    color: white;
+}
+a:visited {
+    color: white;
+}
+a:hover.home {
+    color: rgb(25, 25, 255);
+}

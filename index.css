@@ -30,6 +30,9 @@ a:hover.watchlist {
     color: rgb(25, 255, 25);
 }
 hr {
-    height: 2px;
+    height: 3.5px;
     background-color: white;
+}
+.dog-pic {
+    border: 4px solid white;
 }
