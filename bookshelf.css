@@ -24,18 +24,14 @@ a:visited {
 a:hover.home {
     color: rgb(25, 25, 255);
 }
-h4 {
-    margin-right: 200px;
-}
 img {
-    margin-left: 200px;
     height: 200px;
     width: 150px;
 }
-div {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+h3 {
+    font-size: 30px;
 }
-details {
-    
+ul {
+    list-style-type: none;
+    padding-right: 40px;
+}
