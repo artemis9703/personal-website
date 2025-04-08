@@ -24,7 +24,14 @@
             <br>
             <a class="github" href="https://github.com/artemis9703/personal-website">the github repository</a>
             <br><br>
-            <a href="404.html">coolest page ever</a>
+            press ctrl, shift, A for a really cool page
+            <script>
+                document.addEventListener("keydown", function(event) {
+                    if (event.ctrlKey && event.shiftKey && event.key === "A") {
+                        window.location.href = "404.html";
+                    }
+                });
+            </script>
             <br><br>
             <hr>
         </footer>
