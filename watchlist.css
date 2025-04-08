@@ -24,3 +24,14 @@ a:visited {
 a:hover.home {
     color: rgb(25, 25, 255);
 }
+th {
+    padding-left: 50px;
+    padding-right: 50px;
+    border: solid 1px white;
+}
+table {
+    margin: auto;
+}
+td {
+    border: solid 1px white;
+}
